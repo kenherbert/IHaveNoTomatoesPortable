@@ -1,8 +1,5 @@
 # IHaveNoTomatoesPortable
 
-## Todo
-- Compare against released package to ensure all data is up to date
-
 
 ## Build Process
 1. After installing [I Have No Tomatoes](http://tomatoes.sourceforge.net/downloads.html), copy the files into the `App/IHaveNoTomatoes/` folder
